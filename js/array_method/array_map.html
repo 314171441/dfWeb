@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--
+1. 原始数组为 arr=[0,1,2,3,4]
+
+2. 设置处理函数 count( )
+
+3.通过 arr.map(count)，把 arr 这个数组作为 参数传入count( ) 这个处理函数，并返回结果
+
+
+输入框输入"2", 点击按钮，触发函数，
+返回经过函数处理后的的原始函数 （数字2 乘以原始数组 arr=[0,1,2,3,4]）,返回结果 0,2,4,6,8
+-->
+<input type="text" id="input"/>
+<p>原始数组arr=[0,1,2,3,4]</p>
+<button onclick="getResult()">点击返回数组与数字相乘的结果</button>
+<p id="p">数组经过函数后得出的结果：</p>
+
+<script>
+    var arr=[0,1,2,3,4];
+
+    function count(arr){
+        var num=document.getElementById("input").value;
+        return arr*num
+    }
+
+    function getResult(){
+        document.getElementById("p").innerHTML=document.getElementById("p").innerHTML+arr.map(count)
+    }
+    
+
+</script>
+</body>
+</html>

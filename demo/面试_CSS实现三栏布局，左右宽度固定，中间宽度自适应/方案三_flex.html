@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /*初始化*/
+        html * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .layout div {
+            min-height: 100px;
+            max-height: 120px;
+            /*overflow-x: hidden;*/
+        }
+
+        /*----------------------------------------*/
+        .layout {
+            display: flex;
+        }
+
+        .layout .left {
+            width: 300px;
+            background: red;
+        }
+
+        .layout .center {
+            flex: 1;
+            background: yellow;
+        }
+
+        .layout .right {
+            width: 300px;
+            background: blue;
+        }
+    </style>
+
+
+</head>
+<body>
+<!-- 浮动布局解决方案 -->
+<div class="layout">
+    <div class="left"></div>
+    <div class="center">
+        <h1>浮动解决方案</h1>
+        <p>1.这是布局的中间部分</p>
+        <p>2.这是布局的中间部分</p>
+    </div>
+    <div class="right"></div>
+</div>
+
+</body>
+</html>

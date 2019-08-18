@@ -1,0 +1,75 @@
+/*版心容器*/
+.jd_container{
+    /*psd图 640px大小的设计稿 750px大小的设计稿*/
+    /*640px宽度是早期的标准，标准参考设备 iphone4-320屏幕像素比是2  完美显示
+      750px 苏宁 是现在的主流标准， 标准参考设置是iphone6-375 屏幕像素比2，完美显示
+    */
+    width: 100%;
+    max-width: 640px; /*基于设计稿，目的是为了让图片不失真，如果是750的设计稿，这里就是750*/
+    min-width: 320px; /*是为了保证网页内容布局不受太小屏幕的影响*/
+    margin: 0 auto;  /*在大屏幕中相当于水平居中 */
+
+}
+
+/*顶部搜索*/
+.jd_search{
+    position: fixed;/*因为fixed的基准是浏览器，父容器设置啥也没用*/
+    left: 0;
+    top: 0;/* 1.fixed定位是绝对的. 2.如果不给top和left，会以版心容器为顶点，宽度100%是占屏幕的宽度*/
+    width: 100%;/*因为设置了fixed，这里的100%是指屏幕宽度，这里一定要设置宽度100%，才能让子容器居中*/
+    background-color: black;
+
+}
+.jd_search .jd_search_box{
+    height: 40px;
+    width: 100%;  /**/
+    max-width: 640px;
+    min-width: 320px;
+    margin: 0 auto; /*这里的左右margin在宽度大于640后，就是距父容器fixed内容的距离，auto代表两边一样们也就居中了*/
+    background-color: red;
+    position: relative;
+}
+    /*双飞翼*/
+.jd_search .jd_search_box a{
+    position: absolute;/*-这里设置absolute，那么在父容器中，要设置relative-*/
+    top: 0;
+}
+.jd_search .jd_search_box .icon_logo{
+    width: 60px;
+    height: 40px;
+    left: 0;
+    /*background-color: aqua;*/
+    /*2倍压缩，解决图片失真问题*/
+    /*background: url("../images/login.png")no-repeat;*/
+    /*background-size: 50px 50px;*/
+    /*background-position: 0 -102px;*/
+}
+.jd_search .jd_search_box .login{
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    right: 0;
+}
+.jd_search .jd_search_box form{
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.jd_search .jd_search_box form input{
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding-left: 40px;
+}
+.jd_search .jd_search_box form .icon_search{
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    width: 20px;
+    height: 20px;
+    /*background-color: green;*/
+}
+

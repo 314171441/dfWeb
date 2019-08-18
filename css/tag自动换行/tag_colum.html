@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    /* df---注意
+        span标签如果换行写，会有默认的间隔
+        可以通过一下两种方法消除
+        1.设置float
+        2.写在同一行
+    */
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .container .tag{
+        background-color: #32a92f;
+        float: left;   // df---可以去掉试试
+        /*margin: 20px 20px;*/  // df---这里只有左右有用，上下没有用，但是设置了float就都有用啦
+    }
+    .container .tag:nth-child(2n){
+        background-color: #2b81a9;
+    }
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div class="container">
+        <span class="tag">312312312312</span><span class="tag">12</span>
+        <span class="tag">12312321</span>
+        <span class="tag">31241341351351151351351351</span>
+        <span class="tag">312312312131312</span>
+        <span class="tag">11</span>
+        <span class="tag">312312313123122312</span>
+        <span class="tag">31231231wrwerwe2312</span>
+        <span class="tag">eqw</span>
+        <span class="tag">eqrqrqr</span>
+        <span class="tag">rqr</span>
+
+    </div>
+</body>
+</html>

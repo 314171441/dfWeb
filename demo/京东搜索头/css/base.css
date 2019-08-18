@@ -1,0 +1,60 @@
+/*reset css 重置样式*/
+*,
+::before,
+::after{
+    /*选中所有的元素和沩元素*/
+    margin: 0;
+    padding: 0;
+    /*正对移动端*/
+    box-sizing: border-box;  /*都是从边框开始计算宽度，非固定像素布局，防止益处*/
+    -webkit-box-sizing: border-box; /*主流流浪器 兼容*/
+    -webkit-tap-heightlight-color: transparent; /*点击高亮效果清除*/
+}
+body{
+    font-size: 14px;
+    color: #000;
+    font-family: "Microsoft YaHei UI",sans-serif;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+input,textarea{
+    outline: none;
+    border: none;
+    resize: none; //不能拉动
+    /*清除移动端输入框样式，因为移动端输入框给为表示赋予一些阴影立体等样式*/
+    -webkit-appearance: none;
+}
+/*common css 共用样式*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cf::before,
+.cf::after{
+    content: '';
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+    clear: both;
+}
+.ml10{
+    margin-left: 10px;
+}
+.mr10{
+    margin-right: 10px;
+}
+/*精灵图*/
+/*class="icon_ha"   class="hah icon_ha"*/
+[class ^= "icon_"],[class *=" icon_"]{
+    /*background: url("../images/login.png")no-repeat;*/
+    /*background-size: 50px 50px;*/
+    /*background-position: 0 -102px;*/
+    background: pink;
+}

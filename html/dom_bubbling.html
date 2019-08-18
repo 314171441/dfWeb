@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bubbling</title>
+</head>
+<body>
+    <div class="test1">
+        <div class="test2">
+            123
+        </div>
+    </div>
+<script>
+    document.querySelector(".test1").addEventListener("click",show1);
+    document.querySelector(".test2").addEventListener("click",show2);
+    function show1() {
+        alert("show1")
+    }
+    function show2() {
+        alert("show2");
+    }
+</script>
+</body>
+</html>

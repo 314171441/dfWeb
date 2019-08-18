@@ -1,0 +1,34 @@
+<html>
+<head>
+<style type="text/css">
+.img { position:fixed; top:-400px; }		/* 设置图片初始位置 */
+.img { transition:top ease 1s; }		/* 设置图片过渡效果 */
+.img.show { top:20px; }					/* 设置图片展示后的位置 */
+
+.test{
+	height: 100px;
+	background-color: #2b81a9;
+	transition: background-color ease 5s;
+}
+.test.show{
+	background-color: #b50a13;
+}
+
+.test2{
+	height: 100px;
+	background-color: #13a920;
+	transition: background-color ease 5s;
+}
+.test2.show{
+	background-color: #b50a13;
+}
+</style>
+</head>
+<!-- 在页面加载后对img应用新的样式 -->
+<body onload="document.querySelector('.test').className+=' show'">
+	<!-- 定义一张默认隐藏的图片 -->
+	<img class="img" src="http://pic.qiantucdn.com/01/37/07/67bOOOPICff.jpg" width="500" />
+	<div class="test"></div>
+	<div class="test2 show"></div>
+</body>
+</html>

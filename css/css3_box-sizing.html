@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css3_box-sizing</title>
+
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .content-box{
+            box-sizing: content-box;
+            background-color: #2E8B57;
+            height: 100px;
+            width: 200px;
+            margin: 20px;
+            border: 1px solid #b50a13;
+            padding: 10px;
+        }
+        .border-box{
+            box-sizing: border-box;
+            background-color: #2b81a9;
+            height: 100px;
+            width: 200px;
+            margin: 20px;
+            border: 1px solid #b50a13;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content-box"></div>
+    </br>
+    <div class="border-box"></div>
+</body>
+</html>

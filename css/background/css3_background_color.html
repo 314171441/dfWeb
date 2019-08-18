@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>background_color</title>
+
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .content-box{
+            box-sizing: content-box;
+            background-color: #2E8B57;
+            height: 100px;
+            width: 200px;
+            margin: 20px;
+            border: 10px dashed #b50a13;
+            padding: 10px;
+        }
+        .border-box{
+            box-sizing: border-box;
+            background-color: #2b81a9;
+            height: 100px;
+            width: 200px;
+            margin: 20px;
+            border: 10px  dashed #b50a13;
+            padding: 10px;
+            /*background-clip: padding-box;*/
+        }
+        .padding-box{
+            box-sizing: padding-box;/*浏览器不支持，不常用*/
+            background-color: #2b81a9;
+            height: 100px;
+            width: 200px;
+            margin: 20px;
+            border: 10px  dashed #b50a13;
+            padding: 10px;
+            /*background-clip: padding-box;*/
+        }
+
+        /*这里其实我弄错了，要像设置背景色的盒模型范围还是得用background-clip属性*/
+        /*其实不关是盒模型的哪种，默认的背景色是填充包括border在内的区域的。
+        */
+    </style>
+</head>
+<body>
+<div class="content-box"></div>
+</br>
+<div class="border-box"></div>
+</br>
+<div class="padding-box"></div>
+</body>
+</html>
