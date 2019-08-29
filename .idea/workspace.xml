@@ -4,7 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/js/array_sort_arithmetic/array_sort.js" description="function bubbleSort(arr) {&#10;    var len = arr.lengt..." line="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665677f0-56be-4e07-9b99-4b6cd7c5fbd4" name="Default Changelist" comment="" />
+    <list default="true" id="665677f0-56be-4e07-9b99-4b6cd7c5fbd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/canvas/1.从线段开始.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvas/2.多线条组成图形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvas/3. 绘制矩形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvas/Remand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/array_sort_arithmetic/数组对象分类.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,86 +24,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/array_method/array_map.html">
+        <entry file="file://$PROJECT_DIR$/canvas/1.从线段开始.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="207">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/background/background.html">
+        <entry file="file://$PROJECT_DIR$/canvas/2.多线条组成图形.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="598">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/background/background-clip.html">
+        <entry file="file://$PROJECT_DIR$/canvas/3. 绘制矩形.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="621">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="32" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/background/background-size.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/background/background-origin.html">
+        <entry file="file://$PROJECT_DIR$/canvas/Remand.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="713">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/background/css3_background_color.html">
+        <entry file="file://$PROJECT_DIR$/js/array_sort_arithmetic/数组对象分类.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="368">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/background/background-multiple.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/array_remove_duplication/remove_duplication_indexOf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/array_sort_arithmetic/array_sort.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/array_sort_arithmetic/source/js 数组排序 - zeroyulong的博客 - CSDN博客.htm">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -105,9 +80,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="HTML4 File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -122,17 +97,12 @@
       <replace>console.log</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/object_print/object_print.js" />
-        <option value="$PROJECT_DIR$/object_print/test.js" />
-        <option value="$PROJECT_DIR$/css/css3_box-sizing.html" />
-        <option value="$PROJECT_DIR$/css/css3_transform.html" />
-        <option value="$PROJECT_DIR$/css/css3_animation.html" />
-        <option value="$PROJECT_DIR$/css/css3_background_color.html" />
-        <option value="$PROJECT_DIR$/css/css3_pading_bgc.html" />
-        <option value="$PROJECT_DIR$/css/css3_text_length.html" />
         <option value="$PROJECT_DIR$/js/prototype_chain/prototype_chain.js" />
         <option value="$PROJECT_DIR$/html/dom_bubbling.html" />
         <option value="$PROJECT_DIR$/js/closure.js" />
@@ -176,12 +146,21 @@
         <option value="$PROJECT_DIR$/html/noscript.html" />
         <option value="$PROJECT_DIR$/css/background/background-origin.html" />
         <option value="$PROJECT_DIR$/css/background/css3_background_color.html" />
+        <option value="$PROJECT_DIR$/es6/变量解构赋值.js" />
+        <option value="$PROJECT_DIR$/canvas/canvas1.html" />
+        <option value="$PROJECT_DIR$/canvas/2.多线条组成图形.html" />
+        <option value="$PROJECT_DIR$/canvas/Remand.md" />
+        <option value="$PROJECT_DIR$/canvas/Remand.js" />
+        <option value="$PROJECT_DIR$/canvas/3. 绘制矩形.html" />
+        <option value="$PROJECT_DIR$/canvas/Remand.txt" />
+        <option value="$PROJECT_DIR$/js/array_sort_arithmetic/数组对象分类.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="857" />
-    <option name="width" value="1028" />
+    <option name="x" value="44" />
+    <option name="y" value="31" />
+    <option name="width" value="1193" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -189,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,18 +178,19 @@
             <path>
               <item name="dfWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="dfWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dfWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="dfWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="array_sort_arithmetic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,8 +230,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.obj_key.js">
+  <component name="RunManager" selected="Node.js.数组对象分类.js">
     <configuration name="利用递归计算斐波那契数列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/利用递归计算斐波那契数列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组对象分类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/array_sort_arithmetic/数组对象分类.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="变量解构赋值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/变量解构赋值.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="函数的定义方式和提升.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/fun/函数的定义方式和提升.js" working-dir="$PROJECT_DIR$">
@@ -269,6 +254,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.数组对象分类.js" />
         <item itemvalue="Node.js.利用递归计算斐波那契数列.js" />
         <item itemvalue="Node.js.question3_newArray中有哪些元素.js" />
         <item itemvalue="Node.js.question1-2_var_let_const.js" />
@@ -314,26 +300,30 @@
       <workItem from="1564654259420" duration="1618000" />
       <workItem from="1564751809552" duration="1903000" />
       <workItem from="1565828874318" duration="1508000" />
+      <workItem from="1566140502287" duration="207000" />
+      <workItem from="1567002539687" duration="4872000" />
+      <workItem from="1567094475108" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89611000" />
+    <option name="totallyTimeSpent" value="95501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="857" y="0" width="1028" height="1047" extended-state="0" />
+    <frame x="44" y="31" width="1193" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2885212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22261484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32995495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32995495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Weex Console" order="7" visible="true" weight="0.07094595" />
+      <window_info anchor="bottom" id="Weex Console" order="7" weight="0.07094595" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32995495" />
@@ -365,77 +355,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testOther.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/circulation/for_while_do_while.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/bg_demo_streak.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/container/height100.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/string/string_esc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/array_method/array_map.js" />
-    <entry file="file://$PROJECT_DIR$/js/obj/obj_method.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/obj/obj_key.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -947,6 +866,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/array_method/array_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/background-clip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/background-size.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/background-origin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/css3_background_color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/background/background-multiple.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/array_remove_duplication/remove_duplication_indexOf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -969,44 +929,58 @@
     <entry file="file://$PROJECT_DIR$/js/array_sort_arithmetic/source/js 数组排序 - zeroyulong的博客 - CSDN博客.htm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/array_method/array_map.html">
+    <entry file="file://$PROJECT_DIR$/es6/变量解构赋值.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="161">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/background-size.html">
+    <entry file="file://$PROJECT_DIR$/util.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/background-multiple.html">
+    <entry file="file://$PROJECT_DIR$/js/class.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/background-origin.html">
+    <entry file="file://$PROJECT_DIR$/canvas/Remand.md" />
+    <entry file="file://$PROJECT_DIR$/canvas/1.从线段开始.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="207">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/background.html">
+    <entry file="file://$PROJECT_DIR$/canvas/2.多线条组成图形.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        <state relative-caret-position="598">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/background-clip.html">
+    <entry file="file://$PROJECT_DIR$/canvas/3. 绘制矩形.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="621">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/background/css3_background_color.html">
+    <entry file="file://$PROJECT_DIR$/canvas/Remand.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        <state relative-caret-position="713">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/array_sort_arithmetic/数组对象分类.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
