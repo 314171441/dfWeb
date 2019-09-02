@@ -29,11 +29,12 @@ context.fill();
 context.stroke();
 
 ````
-* context.fill();
-* content.stroke();
-   这两个的顺序也是会有影响的哦
-   这是为什么呢？
-   这是因为lineWidth是发散两边的，就是说定位点是线宽的中间
-   先填充或则先画线，其实就是覆盖没覆盖半个线宽的事情
+>* context.fill();
+>* content.stroke();
+
+   这两个的顺序也是会有影响的哦  
+   这是为什么呢?  
+   这是因为lineWidth是发散两边的，就是说定位点是线宽的中间   
+   先填充或则先画线，其实就是覆盖没覆盖半个线宽的事情.
 
 ```context.react(cxt,x,y,width,height); // 绘制矩形的方法```
