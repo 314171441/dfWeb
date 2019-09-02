@@ -21,8 +21,6 @@ context.lineTo(650,550);
 context.lineTo(150,550);
 context.closePath();        //使用closePath()闭合图形
 
-
-
 context.fillStyle = "pink";
 context.lineWidth = 50;
 context.strokeStyle = "black";
