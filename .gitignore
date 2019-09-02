@@ -1,0 +1,13 @@
+# dependencies
+.xml
+node_modules
+unpackage
+/unpackage
+/dist
+/__MACOSX
+dist
+# logs
+npm-debug.log
+.idea
+.vscode
+.DS_Store
