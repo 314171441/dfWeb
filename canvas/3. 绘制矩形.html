@@ -13,21 +13,21 @@
 
 <script>
     window.onload = function(){
-            let canvas = document.getElementById("canvas");
-            canvas.width = 800;
-            canvas.height = 600;
-            let context = canvas.getContext("2d");
+        let canvas = document.getElementById("canvas");
+        canvas.width = 800;
+        canvas.height = 600;
+        let context = canvas.getContext("2d");
 
-            context.beginPath();
-            context.moveTo(0,0);
-            context.lineTo(650,50);
-            context.lineTo(650,550);
-            context.lineTo(150,550);
-            context.closePath();        //使用closePath()闭合图形     //绘制最后一笔使图像闭合
+        context.beginPath();
+        context.moveTo(0,0);
+        context.lineTo(650,50);
+        context.lineTo(650,550);
+        context.lineTo(150,550);
+        context.closePath();        //使用closePath()闭合图形     //绘制最后一笔使图像闭合
 
-            context.fillStyle = "pink";
-            context.lineWidth = 50;
-            context.strokeStyle = "black";
+        context.fillStyle = "pink";
+        context.lineWidth = 50;
+        context.strokeStyle = "black";
 
         context.fill();
         context.stroke();  // 这两个的顺序也是会有影响的哦
